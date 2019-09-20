@@ -8,3 +8,4 @@ C:\projetos\csharp\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.d
 C:\projetos\csharp\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.pdb
 C:\projetos\csharp\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.dll
 C:\projetos\csharp\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.pdb
+C:\projetos\csharp\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.csprojAssemblyReference.cache
