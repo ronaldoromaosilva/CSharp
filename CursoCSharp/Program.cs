@@ -57,6 +57,7 @@ namespace CursoCSharp {
                 { "Struct - Classes e Métodos", ExemploStruct.Executar },
                 { "Struct Vs Classe - Classes e Métodos", StructVsClasse.Executar },
                 { "Valor Vs Referencia - Classes e Métodos", ValorVsReferencia.Executar },
+                { "Parâmetros Por Referencia - Classes e Métodos", ParametrosPorReferencia.Executar },
             });
 
 
