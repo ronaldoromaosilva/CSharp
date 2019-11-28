@@ -9,3 +9,14 @@ C:\projetos\csharp\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.p
 C:\projetos\csharp\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.dll
 C:\projetos\csharp\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.pdb
 C:\projetos\csharp\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.csprojAssemblyReference.cache
+C:\repos\CSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.deps.json
+C:\repos\CSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.runtimeconfig.json
+C:\repos\CSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.runtimeconfig.dev.json
+C:\repos\CSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.dll
+C:\repos\CSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.pdb
+C:\repos\CSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.csprojAssemblyReference.cache
+C:\repos\CSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\repos\CSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.AssemblyInfoInputs.cache
+C:\repos\CSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.AssemblyInfo.cs
+C:\repos\CSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.dll
+C:\repos\CSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.pdb

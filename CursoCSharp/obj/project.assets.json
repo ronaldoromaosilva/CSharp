@@ -687,23 +687,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\NOTE\\.nuget\\packages\\": {},
+    "C:\\Users\\Ronaldo\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\csharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+      "projectUniqueName": "C:\\repos\\CSharp\\CursoCSharp\\CursoCSharp.csproj",
       "projectName": "CursoCSharp",
-      "projectPath": "C:\\projetos\\csharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
-      "packagesPath": "C:\\Users\\NOTE\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\csharp\\CursoCSharp\\CursoCSharp\\obj\\",
+      "projectPath": "C:\\repos\\CSharp\\CursoCSharp\\CursoCSharp.csproj",
+      "packagesPath": "C:\\Users\\Ronaldo\\.nuget\\packages\\",
+      "outputPath": "C:\\repos\\CSharp\\CursoCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\NOTE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ronaldo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -728,6 +728,7 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
